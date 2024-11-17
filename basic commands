@@ -1,0 +1,23 @@
+pwd - This command is used to show the current working directory.
+pwd -L - This command is used to show the logical path of the current working directory.
+pwd -R - This command is used to show the physical path of the current working directory.
+=-help - It shows the help message.
+--version - it provides the program version.
+cd ~ or cd  - by itself will always bring the user to the home directory.
+cd . -  will allow the user to stay in the similar directory they are in currently.
+cd - will change the user to the old directory.
+ls -a -  The (ls -a) command will enlist the whole list of the current directory including the hidden files.
+ls -l  - It will show the list in a long list format.
+ls -lh -  This command will show you the file sizes in human readable format. 
+ls -lhS  - If you want to display your files in descending order (highest at the top) according to their size, then you can use (ls -lhS) command.
+ls -n  - It is used to print group ID and owner ID instead of their names.
+ls -r  - It is used to print the list in reverse order.
+ls -R - It will display the content of the sub-directories also.
+ls --version It checks the version of ls command.
+whoami - It tells you about the system's username.
+who -  The who command gives the information about the users logged on to the system.
+w - This command tells about the users who are logged in and what are they doing.
+
+
+
+
